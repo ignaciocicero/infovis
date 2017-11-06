@@ -4035,5 +4035,16 @@
        "golesEnContra":0,
        "resultado":"G",
        "condicion":"N"
+    },
+    {
+       "anio":"2017",
+       "mes":11,
+       "torneo":"Superliga 2017/2018",
+       "tipo":"nacional",
+       "rival":"river",
+       "golesAFavor":2,
+       "golesEnContra":1,
+       "resultado":"G",
+       "condicion":"V"
     }
  ]
